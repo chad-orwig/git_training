@@ -1,0 +1,3 @@
+This is a new file!
+
+Since it's new there shouldn't be any merge issues :)
